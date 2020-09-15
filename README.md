@@ -1,4 +1,7 @@
 # vrGame
+
+The graphic looks right in a text editor. I worked so hard on it XD
+
 I'm just learning the basics of Unity right now. So far I have a very crude bowling game.
 I am too poor for a headset is it the code is currently waiting to be beta tested.
 The final product is supposed to be a music library where you actually pull music from shelves.
